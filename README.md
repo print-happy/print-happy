@@ -1,5 +1,5 @@
-### Hi there 👋
-A freshman who try to learn Computer Science although knowing nothing right now;
+### Hi :)
+I am a freshman who struggle to learn Computer Science;
 <!--
 **print-happy/print-happy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
